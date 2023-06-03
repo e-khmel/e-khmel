@@ -16,13 +16,13 @@ var e_khmel = new Person(
 ```
 
 
-- 🌱 I’m currently learning C#
-- 💬 Ask me about ...
+- 🌱 I’m currently learning .NET
+- 💬 Eager to participate in any internship
 - 📫 How to reach me: 
-    + email
-    + telegram
+    + Mail: [khmelel@gmail.com](mailto:khmelel@gmail.com)
+    + Telegram: [@elenarb11155](https://t.me/elenarb11155)
 - 😄 Pronouns: She/Her 
 - 💪 My strengths:
     + know English/French at C1 lvl
-    + like learning smth new
+    + like to learn smth new
     + sociable)
