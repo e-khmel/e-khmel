@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**e-khmel/e-khmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
 
-Here are some ideas to get you started:
+var e_khmel = new Person(
+  name = "Elena Khmel",
+  lacation = "Minsk, Belarus",
+  languages = ["en", "fr", "ru"],
+  background = ["Harvard CS50", "EPAM .Net Development"]
+)
+ 
+ e_khmel.hi()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+// Prints out: Hey! Nice to see you there 😊
+
+```
+
+
+- 🌱 I’m currently learning C#
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+    + email
+    + telegram
+- 😄 Pronouns: She/Her 
+- 💪 My strengths:
+    + know English/French at C1 lvl
+    + like learning smth new
+    + sociable)
